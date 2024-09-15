@@ -15,5 +15,6 @@ const menuSchema =mongoose.Schema({
 
 const Menu=mongoose.model("Menu",menuSchema);
 
+// comment added for learning git command
 
 module.exports=Menu;
